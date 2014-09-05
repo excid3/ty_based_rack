@@ -1,6 +1,5 @@
-# TyBasedRack
-
-TODO: Write a gem description
+# ty_based_rack
+Rack-based web framework. 
 
 ## Installation
 
